@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-02-20 20:41:09 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-02-20 20:26:46 +0000"
@@ -121,8 +127,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-02-20 20:44:20 +0000",
       "wasteland": "2025-02-20 20:36:37 +0000",
-      "lush_desert": "2025-02-20 20:36:34 +0000"
+      "lush_desert": "2025-02-20 20:36:34 +0000",
+      "prairie": "2025-02-20 20:41:09 +0000"
     },
     "done": false
   },
@@ -206,7 +214,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-02-20 20:26:47 +0000"
+      "minecraft:river": "2025-02-20 20:26:47 +0000",
+      "minecraft:savanna": "2025-02-20 20:45:03 +0000",
+      "minecraft:plains": "2025-02-20 20:45:55 +0000"
     },
     "done": false
   },
