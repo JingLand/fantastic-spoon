@@ -1149,3 +1149,90 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Feb2025 20:34:12.695] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [20Feb2025 20:34:12.695] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [20Feb2025 20:34:12.695] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Feb2025 20:36:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Created new objective [vida]]
+[20Feb2025 20:36:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set display slot list to show objective vida]
+[20Feb2025 20:38:09.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Neo_profeci[/127.57.77.194:39311] logged in with entity id 2255 at (7.5, 70.0, -166.5)
+[20Feb2025 20:38:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci joined the game
+[20Feb2025 20:38:09.614] [Server thread/INFO] [Jade/]: Syncing config to Neo_profeci (a143b7f1-e154-3751-9325-6f89ab059d43)
+[20Feb2025 20:38:26.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set the time to 1000]
+[20Feb2025 20:39:06.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> un tornado
+[20Feb2025 20:39:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> ctm no veo nada
+[20Feb2025 20:39:26.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set Neo_profeci's game mode to Creative Mode]
+[20Feb2025 20:39:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Neo_profeci: Killed all storms]
+[20Feb2025 20:40:37.839] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 739 ms
+[20Feb2025 20:40:44.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Neo_profeci: Teleported Neo_profeci to -1599.500000, 67.000000, 2576.500000]
+[20Feb2025 20:40:44.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3667ms or 73 ticks behind
+[20Feb2025 20:40:59.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Minecraft Comes Alive]
+[20Feb2025 20:41:09.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Teleported TomanoMC to Neo_profeci]
+[20Feb2025 20:41:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Minecraft Comes Alive]
+[20Feb2025 20:41:20.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> no hay iglesia
+[20Feb2025 20:41:27.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> ni lobby
+[20Feb2025 20:41:33.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> verga
+[20Feb2025 20:41:41.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> dafuq
+[20Feb2025 20:41:44.542] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_desert took 1537 ms
+[20Feb2025 20:42:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Neo_profeci: Teleported Neo_profeci to 192.500000, 103.226732, -783.500000]
+[20Feb2025 20:42:14.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7473ms or 149 ticks behind
+[20Feb2025 20:42:14.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Neo_profeci: Teleported Neo_profeci to 192.500000, 103.226732, -783.500000]
+[20Feb2025 20:42:21.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Neo_profeci moved too quickly! 0.5293228368478538,-10.554950590931568,1.6761493137840944
+[20Feb2025 20:42:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> tpate
+[20Feb2025 20:42:33.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
+[20Feb2025 20:42:44.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> ta buena esta
+[20Feb2025 20:42:53.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
+[20Feb2025 20:42:54.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> tomano
+[20Feb2025 20:42:57.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Teleported TomanoMC to Neo_profeci]
+[20Feb2025 20:42:59.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> puta el wn
+[20Feb2025 20:43:12.334] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 2573 ms
+[20Feb2025 20:43:12.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[20Feb2025 20:43:12.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved too quickly! 2.1588162546668173,0.0,9.974960775362888
+[20Feb2025 20:43:19.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Neo_profeci: Teleported Neo_profeci to -1487.500000, 66.000000, -2383.500000]
+[20Feb2025 20:43:19.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved too quickly! -5.137693552908701,-6.556824152844982,-5.688790143713732
+[20Feb2025 20:43:25.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> que pasó
+[20Feb2025 20:43:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> no te gustó esta?
+[20Feb2025 20:43:32.419] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[20Feb2025 20:43:39.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12051ms or 241 ticks behind
+[20Feb2025 20:43:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> estoy agotando las opciones
+[20Feb2025 20:43:55.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> por qué
+[20Feb2025 20:43:58.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[20Feb2025 20:44:04.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> porque sipo
+[20Feb2025 20:44:10.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Teleported TomanoMC to Neo_profeci]
+[20Feb2025 20:44:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> pa ver las aldeas de al rededor
+[20Feb2025 20:44:15.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[20Feb2025 20:44:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> esta no me gusto
+[20Feb2025 20:44:26.720] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_savanna took 1098 ms
+[20Feb2025 20:44:26.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved too quickly! 1.1905205798391307,-6.375000253157353,8.00122745101362
+[20Feb2025 20:44:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Neo_profeci: Teleported Neo_profeci to -2303.500000, 108.860911, -655.500000]
+[20Feb2025 20:44:34.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TomanoMC moved too quickly! -4.9955130368507525,1.2726488445623403,8.722682763673674
+[20Feb2025 20:44:34.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[20Feb2025 20:44:37.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> está feilla
+[20Feb2025 20:44:50.164] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[20Feb2025 20:44:50.164] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[20Feb2025 20:44:50.165] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[20Feb2025 20:44:50.165] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[20Feb2025 20:44:50.317] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[20Feb2025 20:44:50.318] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[20Feb2025 20:44:50.318] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[20Feb2025 20:44:50.319] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[20Feb2025 20:44:50.320] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[20Feb2025 20:44:50.321] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[20Feb2025 20:44:50.321] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[20Feb2025 20:44:50.327] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[20Feb2025 20:44:55.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> cacha esta
+[20Feb2025 20:44:58.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20Feb2025 20:45:01.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> no me grites
+[20Feb2025 20:45:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Teleported TomanoMC to Neo_profeci]
+[20Feb2025 20:45:05.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> perdon
+[20Feb2025 20:45:10.151] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[20Feb2025 20:45:10.152] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[20Feb2025 20:45:10.152] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[20Feb2025 20:45:10.152] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[20Feb2025 20:45:10.399] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[20Feb2025 20:45:10.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[20Feb2025 20:45:10.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[20Feb2025 20:45:10.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[20Feb2025 20:45:10.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[20Feb2025 20:45:10.406] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[20Feb2025 20:45:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> uuuu
+[20Feb2025 20:45:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> está buena esta
+[20Feb2025 20:45:22.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> sisi
+[20Feb2025 20:45:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> limpiamos un poco
+[20Feb2025 20:45:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> y sirve

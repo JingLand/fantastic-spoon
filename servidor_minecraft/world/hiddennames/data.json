@@ -25,5 +25,32 @@
       "text": ""
     },
     "animation": "null"
+  },
+  {
+    "uuid": "a143b7f1-e154-3751-9325-6f89ab059d43",
+    "displayName": {
+      "insertion": "Neo_profeci",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Neo_profeci "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "a143b7f1-e154-3751-9325-6f89ab059d43",
+          "name": {
+            "text": "Neo_profeci"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Neo_profeci"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
   }
 ]
