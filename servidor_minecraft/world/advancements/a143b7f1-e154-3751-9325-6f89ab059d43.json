@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-20 20:53:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "lush_desert": "2025-02-20 20:38:10 +0000"
@@ -164,6 +170,12 @@
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-02-20 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-02-20 20:53:11 +0000"
     },
     "done": true
   },
@@ -366,6 +378,12 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-02-20 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-02-20 20:53:11 +0000"
     },
     "done": true
   },

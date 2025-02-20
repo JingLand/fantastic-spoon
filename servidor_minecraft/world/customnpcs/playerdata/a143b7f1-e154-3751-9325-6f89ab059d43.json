@@ -6,6 +6,9 @@
     "body": 0,
     "isActive": 0b,
     "DialogData": [
+        {
+            "Dialog": 4
+        }
     ],
     "leg": 0,
     "hair": 0,
