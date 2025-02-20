@@ -1,0 +1,29 @@
+[
+  {
+    "uuid": "aae909ca-8c1a-3db0-819a-ff5f1fb6b09e",
+    "displayName": {
+      "insertion": "TomanoMC",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell TomanoMC "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "aae909ca-8c1a-3db0-819a-ff5f1fb6b09e",
+          "name": {
+            "text": "TomanoMC"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "TomanoMC"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
