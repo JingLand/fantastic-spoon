@@ -6162,3 +6162,112 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [21Feb2025 05:55:35.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Feb2025 05:55:35.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 05:57:59.830] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[21Feb2025 06:00:03.325] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.integration.curios.impl.CuriosBackpackSlotModUtil@4f87f9f for class class info.u_team.useful_backpacks.integration.slot_mod.util.BackpackSlotModUtil
+[21Feb2025 06:00:35.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 06:00:35.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 06:02:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set the time to 1000]
+[21Feb2025 06:05:35.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 06:05:35.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 06:10:35.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 06:10:35.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 06:13:39.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set the time to 1000]
+[21Feb2025 06:13:53.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Gave 1 [Command Block] to TomanoMC]
+[21Feb2025 06:15:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:35.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 06:15:35.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 06:15:40.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:40.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:41.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:42.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:45.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:45.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:45.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:45.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:45.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:45.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:46.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:47.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:48.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:48.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:48.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:48.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:15:48.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:16:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
