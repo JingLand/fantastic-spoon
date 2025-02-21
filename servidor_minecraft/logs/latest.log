@@ -990,3 +990,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [21Feb2025 06:15:48.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
 [21Feb2025 06:15:48.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
 [21Feb2025 06:16:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Estás en la aldea de Nanjaland
+[21Feb2025 06:23:24.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set the time to 1000]
+[21Feb2025 06:23:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Created new objective [entrando_aldea]]
+[21Feb2025 06:24:30.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TomanoMC> -2281 65 -636
