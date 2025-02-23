@@ -897,3 +897,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Feb2025 23:35:29.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [23Feb2025 23:35:29.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [23Feb2025 23:40:23.704] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Installed for use
+[23Feb2025 23:44:15.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set the time to 1000]
+[23Feb2025 23:44:17.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eltintinn[/127.109.12.38:52153] logged in with entity id 1261 at (-2289.5, 76.0, -636.5)
+[23Feb2025 23:44:17.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eltintinn joined the game
+[23Feb2025 23:44:17.172] [Server thread/INFO] [Jade/]: Syncing config to Eltintinn (4ea4788f-9efb-3536-a943-099eea04c56d)
+[23Feb2025 23:44:18.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eltintinn has made the advancement [Minecraft Comes Alive]
+[23Feb2025 23:44:20.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pipeeessj[/127.204.20.108:57013] logged in with entity id 1274 at (-2281.5, 83.0, -640.5)
+[23Feb2025 23:44:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipeeessj joined the game
+[23Feb2025 23:44:20.118] [Server thread/INFO] [Jade/]: Syncing config to pipeeessj (c80b607a-374c-3e73-8977-e1fba99eaef9)
+[23Feb2025 23:44:21.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipeeessj has made the advancement [Minecraft Comes Alive]
+[23Feb2025 23:44:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TomanoMC: Set own game mode to Survival Mode]
+[23Feb2025 23:45:26.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Timothy255[/127.30.92.74:59243] logged in with entity id 1395 at (-2279.5, 65.0, -635.5)
+[23Feb2025 23:45:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Timothy255 joined the game
+[23Feb2025 23:45:26.509] [Server thread/INFO] [Jade/]: Syncing config to Timothy255 (f4e6d21f-ff30-3381-a0ac-8dda38e4907c)
+[23Feb2025 23:45:27.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Timothy255 has made the advancement [Minecraft Comes Alive]
+[23Feb2025 23:46:46.204] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[23Feb2025 23:46:46.205] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[23Feb2025 23:46:46.616] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID cafc5184-d443-46db-bfe0-82da3ab2ddde
+[23Feb2025 23:46:46.665] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 49a044e5-98c3-422a-9c83-97ca4f7c9571
+[23Feb2025 23:46:46.666] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/fantastic-spoon/servidor_minecraft/./crash-reports/crash-2025-02-23_23.46.46-server.txt
