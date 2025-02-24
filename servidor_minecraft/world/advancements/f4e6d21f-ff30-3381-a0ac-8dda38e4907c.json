@@ -4797,6 +4797,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-24 17:43:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-24 17:43:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-02-24 17:43:51 +0000"
@@ -4881,12 +4893,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-02-24 17:43:11 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/light_gray_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-24 17:43:51 +0000"
@@ -4947,12 +4953,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
-    "criteria": {
-      "has_item": "2025-02-24 17:43:11 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/brown_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-24 17:43:51 +0000"
@@ -4968,6 +4968,42 @@
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-24 17:43:51 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-02-24 18:21:42 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-02-24 18:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-24 18:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-24 18:21:42 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-02-24 18:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-24 18:21:42 +0000"
     },
     "done": true
   },
