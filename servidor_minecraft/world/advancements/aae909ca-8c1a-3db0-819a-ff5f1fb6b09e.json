@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-02-24 00:51:02 +0000",
+      "minecraft:bamboo_jungle": "2025-02-24 05:25:24 +0000",
       "minecraft:savanna_plateau": "2025-02-24 00:59:59 +0000",
       "minecraft:beach": "2025-02-24 00:48:48 +0000",
       "minecraft:stony_peaks": "2025-02-24 00:59:11 +0000",
@@ -97,6 +98,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-24 01:25:30 +0000",
+      "shrubland": "2025-02-24 05:38:55 +0000",
+      "rocky_shrubland": "2025-02-24 05:40:24 +0000",
       "scrubland": "2025-02-21 05:53:04 +0000",
       "floodplain": "2025-02-24 04:21:23 +0000",
       "old_growth_woodland": "2025-02-21 05:45:52 +0000",
@@ -107,7 +110,9 @@
       "lush_desert": "2025-02-20 20:36:34 +0000",
       "redwood_forest": "2025-02-21 05:46:02 +0000",
       "dune_beach": "2025-02-24 03:59:24 +0000",
+      "volcano": "2025-02-24 04:40:30 +0000",
       "rocky_rainforest": "2025-02-24 04:23:04 +0000",
+      "volcanic_plains": "2025-02-24 04:41:49 +0000",
       "prairie": "2025-02-20 20:41:09 +0000",
       "rainforest": "2025-02-24 04:21:15 +0000"
     },
@@ -776,6 +781,7 @@
       "apple": "2025-02-24 02:48:22 +0000",
       "potato": "2025-02-24 02:51:20 +0000",
       "pumpkin_pie": "2025-02-24 00:39:17 +0000",
+      "mutton": "2025-02-24 04:47:40 +0000",
       "bread": "2025-02-24 00:23:08 +0000",
       "golden_apple": "2025-02-24 02:54:23 +0000",
       "rotten_flesh": "2025-02-24 00:43:00 +0000",
@@ -1149,8 +1155,10 @@
     "criteria": {
       "minecraft:pillager": "2025-02-24 01:14:39 +0000",
       "minecraft:skeleton": "2025-02-24 00:32:58 +0000",
+      "minecraft:hoglin": "2025-02-24 05:05:25 +0000",
       "minecraft:spider": "2025-02-24 01:53:24 +0000",
       "minecraft:creeper": "2025-02-24 02:03:51 +0000",
+      "minecraft:phantom": "2025-02-24 04:59:35 +0000",
       "minecraft:wither_skeleton": "2025-02-24 02:33:35 +0000",
       "minecraft:husk": "2025-02-24 00:33:17 +0000",
       "minecraft:cave_spider": "2025-02-24 02:01:06 +0000",
@@ -4181,6 +4189,948 @@
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-02-24 04:26:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-02-24 04:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-24 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-24 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-24 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-24 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-24 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-24 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-24 04:58:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-24 04:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-24 04:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-24 04:58:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-02-24 05:12:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-02-24 05:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 05:22:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-02-24 05:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-24 05:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-24 05:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-24 05:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-02-24 05:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-24 05:33:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 05:34:22 +0000"
     },
     "done": true
   },
