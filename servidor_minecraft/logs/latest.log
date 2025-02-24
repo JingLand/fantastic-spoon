@@ -954,3 +954,53 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Feb2025 17:49:01.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3759, y=65, z=-2673} BlockPos{x=-3759, y=63, z=-2672}
 [24Feb2025 17:49:05.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8278ms or 165 ticks behind
 [24Feb2025 17:49:28.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8777ms or 175 ticks behind
+[24Feb2025 17:49:54.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10306ms or 206 ticks behind
+[24Feb2025 17:50:15.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6853ms or 137 ticks behind
+[24Feb2025 17:50:38.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7700ms or 154 ticks behind
+[24Feb2025 17:51:00.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6985ms or 139 ticks behind
+[24Feb2025 17:51:22.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7328ms or 146 ticks behind
+[24Feb2025 17:51:47.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9431ms or 188 ticks behind
+[24Feb2025 17:52:12.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10289ms or 205 ticks behind
+[24Feb2025 17:53:13.228] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[24Feb2025 18:05:24.396] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[24Feb2025 18:05:25.568] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 3e297bdc-6e54-476e-9da5-9049979f0aba
+[24Feb2025 18:05:25.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Timothy255 lost connection: Disconnected
+[24Feb2025 18:05:25.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Timothy255 left the game
+[24Feb2025 18:05:25.617] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 46762858-45b9-4a89-961a-3d8a1228d714
+[24Feb2025 18:05:25.618] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/fantastic-spoon/servidor_minecraft/./crash-reports/crash-2025-02-24_18.05.25-server.txt
+[24Feb2025 18:05:25.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pipeeessj lost connection: Disconnected
+[24Feb2025 18:05:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pipeeessj left the game
+[24Feb2025 18:05:25.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eltintinn lost connection: Disconnected
+[24Feb2025 18:05:25.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eltintinn left the game
+[24Feb2025 18:05:25.654] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fdb96b3[id=<null>,name=Eltintinn,properties={},legacy=false] (/127.109.12.38:39533) lost connection: Disconnected
+[24Feb2025 18:05:25.654] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41ac2a3[id=<null>,name=pipeeessj,properties={},legacy=false] (/127.204.20.108:39723) lost connection: Disconnected
+[24Feb2025 18:05:25.654] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a06371c[id=<null>,name=Eltintinn,properties={},legacy=false] (/127.109.12.38:47789) lost connection: Disconnected
+[24Feb2025 18:05:25.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42251d71[id=<null>,name=Timothy255,properties={},legacy=false] (/127.30.92.74:58087) lost connection: Disconnected
+[24Feb2025 18:05:25.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68ef4567[id=<null>,name=Eltintinn,properties={},legacy=false] (/127.109.12.38:41109) lost connection: Disconnected
+[24Feb2025 18:05:25.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ab29d03[id=<null>,name=Timothy255,properties={},legacy=false] (/127.30.92.74:54559) lost connection: Disconnected
+[24Feb2025 18:05:25.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5167f39e[id=<null>,name=pipeeessj,properties={},legacy=false] (/127.204.20.108:39267) lost connection: Disconnected
+[24Feb2025 18:05:25.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bc3a256[id=<null>,name=pipeeessj,properties={},legacy=false] (/127.204.20.108:60237) lost connection: Disconnected
+[24Feb2025 18:05:25.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29151c34[id=<null>,name=Timothy255,properties={},legacy=false] (/127.30.92.74:38647) lost connection: Disconnected
+[24Feb2025 18:05:25.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e1c690[id=<null>,name=pipeeessj,properties={},legacy=false] (/127.204.20.108:57017) lost connection: Disconnected
+[24Feb2025 18:05:25.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69742ef1[id=<null>,name=Timothy255,properties={},legacy=false] (/127.30.92.74:41609) lost connection: Disconnected
+[24Feb2025 18:05:25.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f83f09b[id=<null>,name=Eltintinn,properties={},legacy=false] (/127.109.12.38:46049) lost connection: Disconnected
+[24Feb2025 18:05:25.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ef6a1e3[id=<null>,name=pipeeessj,properties={},legacy=false] (/127.204.20.108:55093) lost connection: Disconnected
+[24Feb2025 18:05:25.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47aa3beb[id=<null>,name=Timothy255,properties={},legacy=false] (/127.30.92.74:60861) lost connection: Disconnected
+[24Feb2025 18:05:25.708] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[24Feb2025 18:05:25.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Feb2025 18:05:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Feb2025 18:05:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Feb2025 18:05:27.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Feb2025 18:05:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:setback
+[24Feb2025 18:05:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_afterdark:afterdark
+[24Feb2025 18:05:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:astral_dimension
+[24Feb2025 18:05:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Feb2025 18:05:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Feb2025 18:05:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Feb2025 18:05:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (setback): All chunks are saved
+[24Feb2025 18:05:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (afterdark): All chunks are saved
+[24Feb2025 18:05:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (astral_dimension): All chunks are saved
+[24Feb2025 18:05:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Feb2025 18:05:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Feb2025 18:05:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Feb2025 18:05:30.025] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
