@@ -900,3 +900,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Feb2025 07:00:49.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Neo_profeci[/127.27.67.110:50833] logged in with entity id 942 at (-4587.171208278713, 64.7531999805212, -1324.5510656594229)
 [24Feb2025 07:00:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci joined the game
 [24Feb2025 07:00:49.602] [Server thread/INFO] [Jade/]: Syncing config to Neo_profeci (a143b7f1-e154-3751-9325-6f89ab059d43)
+[24Feb2025 07:32:01.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Junior Summoner]
+[24Feb2025 07:36:16.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci was blown up by Mutant Creeper
+[24Feb2025 07:36:24.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC was slain by Mutant Creeper

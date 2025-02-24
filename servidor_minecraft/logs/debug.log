@@ -6447,3 +6447,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Feb2025 07:19:58.473] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [24Feb2025 07:22:50.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Feb2025 07:22:50.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 07:27:50.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 07:27:50.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 07:32:01.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Junior Summoner]
+[24Feb2025 07:32:50.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 07:32:50.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 07:36:16.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci was blown up by Mutant Creeper
+[24Feb2025 07:36:24.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC was slain by Mutant Creeper
