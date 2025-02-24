@@ -6,6 +6,9 @@
     "body": 0,
     "isActive": 0b,
     "DialogData": [
+        {
+            "Dialog": 4
+        }
     ],
     "leg": 0,
     "hair": 0,
@@ -21,6 +24,10 @@
     "NpcsTimers": [
     ],
     "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
     ],
     "BankData": [
     ],

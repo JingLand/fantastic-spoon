@@ -133,5 +133,32 @@
       "text": ""
     },
     "animation": "null"
+  },
+  {
+    "uuid": "7f899fbb-f531-3c9a-9b0b-c2ef3e1c96ae",
+    "displayName": {
+      "insertion": "DocSak",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell DocSak "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "7f899fbb-f531-3c9a-9b0b-c2ef3e1c96ae",
+          "name": {
+            "text": "DocSak"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "DocSak"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
   }
 ]
