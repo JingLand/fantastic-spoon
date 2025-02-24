@@ -842,11 +842,13 @@
       "minecraft:skeleton": "2025-02-24 00:26:54 +0000",
       "minecraft:hoglin": "2025-02-24 05:04:05 +0000",
       "minecraft:spider": "2025-02-24 00:45:40 +0000",
+      "minecraft:piglin_brute": "2025-02-24 23:03:27 +0000",
       "minecraft:creeper": "2025-02-24 03:03:19 +0000",
       "minecraft:phantom": "2025-02-24 04:56:34 +0000",
       "minecraft:wither_skeleton": "2025-02-24 02:34:14 +0000",
       "minecraft:husk": "2025-02-24 00:28:20 +0000",
       "minecraft:cave_spider": "2025-02-24 07:13:00 +0000",
+      "minecraft:piglin": "2025-02-24 23:03:34 +0000",
       "minecraft:stray": "2025-02-24 01:37:04 +0000",
       "minecraft:silverfish": "2025-02-24 02:34:04 +0000",
       "minecraft:zombie": "2025-02-24 00:07:57 +0000"
@@ -5608,9 +5610,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_tall_lavender": "2025-02-24 07:40:46 +0000"
+      "has_spider_eye": "2025-02-24 07:13:00 +0000"
     },
     "done": true
   },
@@ -5620,9 +5622,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
     "criteria": {
-      "has_spider_eye": "2025-02-24 07:13:00 +0000"
+      "has_tall_lavender": "2025-02-24 07:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-24 23:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-02-24 23:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-24 23:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-24 23:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-24 23:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-24 23:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-02-24 23:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-02-24 23:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-24 23:02:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-24 23:02:53 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-02-24 23:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-24 23:02:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-24 23:02:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-02-24 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-02-24 23:06:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-02-24 23:06:14 +0000"
     },
     "done": true
   },

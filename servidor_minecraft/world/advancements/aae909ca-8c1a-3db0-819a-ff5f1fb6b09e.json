@@ -74,17 +74,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-02-24 00:51:02 +0000",
+      "minecraft:birch_forest": "2025-02-24 21:48:21 +0000",
       "minecraft:windswept_hills": "2025-02-24 06:11:10 +0000",
       "minecraft:bamboo_jungle": "2025-02-24 05:25:24 +0000",
       "minecraft:savanna_plateau": "2025-02-24 00:59:59 +0000",
       "minecraft:beach": "2025-02-24 00:48:48 +0000",
       "minecraft:stony_peaks": "2025-02-24 00:59:11 +0000",
+      "minecraft:sparse_jungle": "2025-02-24 21:47:32 +0000",
       "minecraft:river": "2025-02-20 20:26:47 +0000",
       "minecraft:lukewarm_ocean": "2025-02-21 05:54:31 +0000",
       "minecraft:stony_shore": "2025-02-24 04:01:44 +0000",
       "minecraft:swamp": "2025-02-24 06:05:28 +0000",
       "minecraft:forest": "2025-02-21 05:46:01 +0000",
       "minecraft:ocean": "2025-02-24 00:52:15 +0000",
+      "minecraft:jungle": "2025-02-24 22:08:45 +0000",
       "minecraft:windswept_savanna": "2025-02-24 06:23:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-24 00:50:26 +0000",
       "minecraft:savanna": "2025-02-20 20:45:03 +0000",
@@ -1175,7 +1178,8 @@
       "minecraft:cave_spider": "2025-02-24 02:01:06 +0000",
       "minecraft:silverfish": "2025-02-24 02:33:27 +0000",
       "minecraft:stray": "2025-02-24 02:29:57 +0000",
-      "minecraft:zombie": "2025-02-24 01:39:25 +0000"
+      "minecraft:zombie": "2025-02-24 01:39:25 +0000",
+      "minecraft:zombie_villager": "2025-02-24 21:16:12 +0000"
     },
     "done": false
   },
@@ -5242,6 +5246,30 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-24 07:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-24 07:12:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-24 07:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-24 07:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-02-24 07:13:23 +0000"
@@ -5254,21 +5282,69 @@
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_item": "2025-02-24 07:12:37 +0000"
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-24 07:20:56 +0000"
     },
     "done": true
   },
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-02-24 07:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
     },
     "done": true
   },
@@ -5284,27 +5360,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-24 07:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-02-24 07:20:56 +0000"
     },
     "done": true
   },
@@ -5344,45 +5402,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-24 07:12:37 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-02-24 07:52:13 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-02-24 07:12:37 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-02-24 07:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
     },
     "done": true
   },
@@ -5398,33 +5426,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-02-24 07:13:23 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-02-24 07:52:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_paper": "2025-02-24 07:12:37 +0000"
+      "has_raw_copper": "2025-02-24 21:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-24 21:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-24 21:32:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-24 22:01:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-02-24 22:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-24 22:55:21 +0000"
     },
     "done": true
   },
