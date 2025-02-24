@@ -4347,15 +4347,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "has_mutton": "2025-02-24 02:12:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2025-02-24 02:15:36 +0000"
+      "junior_summoner_0": "2025-02-24 02:01:04 +0000"
     },
     "done": true
   },
@@ -4365,39 +4359,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
-      "has_sign": "2025-02-24 02:15:27 +0000"
+      "has_vine": "2025-02-24 02:10:28 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
     "criteria": {
-      "has_log": "2025-02-24 02:37:29 +0000"
+      "has_vine": "2025-02-24 02:10:28 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_wishing_well": {
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
     "criteria": {
-      "location0": "2025-02-24 02:33:01 +0000"
+      "has_vine": "2025-02-24 02:10:28 +0000"
     },
     "done": true
   },
-  "usefulbackpacks:recipes/backpack_large": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "has_medium_backpack": "2025-02-24 02:37:39 +0000"
-    },
-    "done": true
-  },
-  "mca:friend": {
-    "criteria": {
-      "baby": "2025-02-24 03:13:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:15:27 +0000"
+      "has_mutton": "2025-02-24 02:12:16 +0000"
     },
     "done": true
   },
@@ -4407,27 +4389,45 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-24 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-24 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 02:12:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 02:12:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
-      "dismantledto_bones_0": "2025-02-24 02:58:32 +0000"
+      "has_sign": "2025-02-24 02:15:27 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
-      "has_planks": "2025-02-24 02:33:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_park_bench": {
-    "criteria": {
-      "has_log": "2025-02-24 02:37:29 +0000"
+      "has_sign": "2025-02-24 02:15:27 +0000"
     },
     "done": true
   },
@@ -4443,33 +4443,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-02-24 02:12:56 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_cabinet": {
-    "criteria": {
-      "has_log": "2025-02-24 02:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2025-02-24 02:10:28 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2025-02-24 02:12:56 +0000"
     },
     "done": true
   },
@@ -4479,51 +4455,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:37:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:33:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:33:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_chair": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:37:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-02-24 02:19:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:33:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
@@ -4539,33 +4473,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-02-24 03:05:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:33:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-02-24 02:33:12 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_table": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
@@ -4575,33 +4485,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2025-02-24 02:01:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2025-02-24 02:10:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-02-24 02:15:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-02-24 02:15:36 +0000"
     },
     "done": true
   },
@@ -4611,39 +4497,9 @@
     },
     "done": true
   },
-  "mca:hunted": {
-    "criteria": {
-      "iron": "2025-02-24 02:56:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_blinds": {
-    "criteria": {
-      "has_log": "2025-02-24 02:37:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:33:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_crate": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:37:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
@@ -4653,39 +4509,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:33:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2025-02-24 02:10:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-02-24 02:48:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-02-24 02:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
@@ -4695,27 +4521,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-02-24 02:49:06 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-02-24 02:15:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
-      "has_mutton": "2025-02-24 02:12:16 +0000"
+      "has_sign": "2025-02-24 02:15:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {
-      "has_sugar_cane": "2025-02-24 02:48:17 +0000"
+      "has_sign": "2025-02-24 02:15:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-24 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-24 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-24 02:15:36 +0000"
     },
     "done": true
   },
@@ -4725,15 +4569,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
-      "has_mutton": "2025-02-24 02:12:16 +0000"
+      "has_cooked_rabbit": "2025-02-24 02:19:02 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_desk": {
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
-      "has_planks": "2025-02-24 02:37:29 +0000"
+      "has_cooked_rabbit": "2025-02-24 02:19:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-02-24 02:19:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-24 02:33:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-02-24 02:33:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:33:45 +0000"
     },
     "done": true
   },
@@ -4749,39 +4653,87 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+  "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
-      "has_sign": "2025-02-24 02:15:27 +0000"
+      "has_planks": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
-      "has_cooked_rabbit": "2025-02-24 02:19:02 +0000"
+      "has_log": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
-      "has_name_tag": "2025-02-24 02:38:29 +0000"
+      "has_planks": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+  "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
-      "has_sign": "2025-02-24 02:15:27 +0000"
+      "has_log": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+  "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
-      "has_cooked_rabbit": "2025-02-24 02:19:02 +0000"
+      "has_planks": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:37:29 +0000"
     },
     "done": true
   },
@@ -4791,9 +4743,57 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+  "usefulbackpacks:recipes/backpack_large": {
     "criteria": {
-      "has_sign": "2025-02-24 02:15:27 +0000"
+      "has_medium_backpack": "2025-02-24 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-02-24 02:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-24 02:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-24 02:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-24 02:49:06 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-02-24 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-02-24 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-02-24 03:05:24 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-02-24 03:13:51 +0000"
     },
     "done": true
   },
