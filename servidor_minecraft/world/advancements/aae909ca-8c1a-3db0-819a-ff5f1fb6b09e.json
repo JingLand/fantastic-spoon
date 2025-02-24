@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-02-24 00:51:02 +0000",
+      "minecraft:windswept_hills": "2025-02-24 06:11:10 +0000",
       "minecraft:bamboo_jungle": "2025-02-24 05:25:24 +0000",
       "minecraft:savanna_plateau": "2025-02-24 00:59:59 +0000",
       "minecraft:beach": "2025-02-24 00:48:48 +0000",
@@ -81,8 +82,10 @@
       "minecraft:river": "2025-02-20 20:26:47 +0000",
       "minecraft:lukewarm_ocean": "2025-02-21 05:54:31 +0000",
       "minecraft:stony_shore": "2025-02-24 04:01:44 +0000",
+      "minecraft:swamp": "2025-02-24 06:05:28 +0000",
       "minecraft:forest": "2025-02-21 05:46:01 +0000",
       "minecraft:ocean": "2025-02-24 00:52:15 +0000",
+      "minecraft:windswept_savanna": "2025-02-24 06:23:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-24 00:50:26 +0000",
       "minecraft:savanna": "2025-02-20 20:45:03 +0000",
       "minecraft:plains": "2025-02-20 20:45:55 +0000"
@@ -102,7 +105,12 @@
       "rocky_shrubland": "2025-02-24 05:40:24 +0000",
       "scrubland": "2025-02-21 05:53:04 +0000",
       "floodplain": "2025-02-24 04:21:23 +0000",
+      "highland": "2025-02-24 06:09:20 +0000",
+      "jacaranda_glade": "2025-02-24 06:09:00 +0000",
+      "marsh": "2025-02-24 06:05:33 +0000",
+      "mystic_grove": "2025-02-24 06:31:57 +0000",
       "old_growth_woodland": "2025-02-21 05:45:52 +0000",
+      "orchard": "2025-02-24 06:09:03 +0000",
       "mediterranean_forest": "2025-02-24 01:08:47 +0000",
       "coniferous_forest": "2025-02-20 20:44:20 +0000",
       "spider_nest": "2025-02-24 01:35:47 +0000",
@@ -113,6 +121,7 @@
       "volcano": "2025-02-24 04:40:30 +0000",
       "rocky_rainforest": "2025-02-24 04:23:04 +0000",
       "volcanic_plains": "2025-02-24 04:41:49 +0000",
+      "lavender_field": "2025-02-24 06:17:50 +0000",
       "prairie": "2025-02-20 20:41:09 +0000",
       "rainforest": "2025-02-24 04:21:15 +0000"
     },
@@ -775,6 +784,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-24 04:06:26 +0000",
+      "cooked_mutton": "2025-02-24 07:22:04 +0000",
       "cooked_beef": "2025-02-24 01:35:01 +0000",
       "beef": "2025-02-24 01:01:32 +0000",
       "porkchop": "2025-02-24 00:46:01 +0000",
@@ -787,6 +797,7 @@
       "rotten_flesh": "2025-02-24 00:43:00 +0000",
       "melon_slice": "2025-02-24 00:21:58 +0000",
       "golden_carrot": "2025-02-24 03:03:05 +0000",
+      "cooked_chicken": "2025-02-24 06:51:58 +0000",
       "carrot": "2025-02-24 00:39:46 +0000"
     },
     "done": false
@@ -3198,7 +3209,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-02-24 01:47:11 +0000"
+      "in_better_monster_room": "2025-02-24 01:47:11 +0000",
+      "in_better_spider_dungeon": "2025-02-24 06:20:04 +0000"
     },
     "done": false
   },
@@ -5131,6 +5143,198 @@
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-24 05:34:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-24 06:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-24 06:12:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-02-24 06:12:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-24 06:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2025-02-24 06:46:40 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-24 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-24 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-24 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-24 07:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-24 07:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-24 07:12:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-24 07:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-24 07:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-24 07:12:37 +0000"
     },
     "done": true
   },

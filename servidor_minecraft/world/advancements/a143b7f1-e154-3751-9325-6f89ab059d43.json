@@ -83,7 +83,12 @@
       "shrubland": "2025-02-24 05:38:50 +0000",
       "scrubland": "2025-02-20 21:06:59 +0000",
       "floodplain": "2025-02-24 04:23:17 +0000",
+      "highland": "2025-02-24 06:10:03 +0000",
+      "jacaranda_glade": "2025-02-24 06:09:40 +0000",
+      "marsh": "2025-02-24 06:05:33 +0000",
+      "mystic_grove": "2025-02-24 06:32:02 +0000",
       "old_growth_woodland": "2025-02-24 04:22:50 +0000",
+      "orchard": "2025-02-24 06:27:44 +0000",
       "mediterranean_forest": "2025-02-24 01:08:51 +0000",
       "coniferous_forest": "2025-02-20 20:43:20 +0000",
       "spider_nest": "2025-02-24 01:35:44 +0000",
@@ -94,7 +99,9 @@
       "volcano": "2025-02-24 04:40:14 +0000",
       "rocky_rainforest": "2025-02-24 04:25:59 +0000",
       "volcanic_plains": "2025-02-24 04:40:13 +0000",
+      "lavender_field": "2025-02-24 06:16:41 +0000",
       "prairie": "2025-02-20 20:40:45 +0000",
+      "grassland": "2025-02-24 06:44:25 +0000",
       "rainforest": "2025-02-24 04:23:09 +0000"
     },
     "done": false
@@ -234,14 +241,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-02-24 00:51:00 +0000",
+      "minecraft:windswept_hills": "2025-02-24 06:12:54 +0000",
       "minecraft:bamboo_jungle": "2025-02-24 05:25:13 +0000",
       "minecraft:savanna_plateau": "2025-02-24 01:08:37 +0000",
       "minecraft:beach": "2025-02-24 00:48:46 +0000",
       "minecraft:stony_peaks": "2025-02-24 01:54:41 +0000",
+      "minecraft:dark_forest": "2025-02-24 06:44:35 +0000",
       "minecraft:lukewarm_ocean": "2025-02-24 00:49:30 +0000",
       "minecraft:river": "2025-02-24 00:12:55 +0000",
       "minecraft:stony_shore": "2025-02-24 03:58:34 +0000",
+      "minecraft:dripstone_caves": "2025-02-24 06:46:54 +0000",
+      "minecraft:swamp": "2025-02-24 06:05:28 +0000",
+      "minecraft:forest": "2025-02-24 06:05:25 +0000",
       "minecraft:ocean": "2025-02-24 00:52:13 +0000",
+      "minecraft:windswept_savanna": "2025-02-24 06:23:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-24 00:50:25 +0000",
       "minecraft:savanna": "2025-02-20 20:44:34 +0000",
       "minecraft:plains": "2025-02-20 20:49:40 +0000"
@@ -833,6 +846,7 @@
       "minecraft:phantom": "2025-02-24 04:56:34 +0000",
       "minecraft:wither_skeleton": "2025-02-24 02:34:14 +0000",
       "minecraft:husk": "2025-02-24 00:28:20 +0000",
+      "minecraft:cave_spider": "2025-02-24 07:13:00 +0000",
       "minecraft:stray": "2025-02-24 01:37:04 +0000",
       "minecraft:silverfish": "2025-02-24 02:34:04 +0000",
       "minecraft:zombie": "2025-02-24 00:07:57 +0000"
@@ -931,6 +945,7 @@
       "baked_potato": "2025-02-24 02:20:53 +0000",
       "beef": "2025-02-24 02:00:58 +0000",
       "apple": "2025-02-24 00:49:19 +0000",
+      "cooked_cod": "2025-02-24 06:27:01 +0000",
       "pumpkin_pie": "2025-02-24 01:12:58 +0000",
       "mutton": "2025-02-24 00:12:41 +0000",
       "bread": "2025-02-24 00:15:20 +0000",
@@ -3703,7 +3718,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-02-24 02:05:45 +0000"
+      "in_better_monster_room": "2025-02-24 02:05:45 +0000",
+      "in_better_spider_dungeon": "2025-02-24 06:21:49 +0000"
     },
     "done": false
   },
@@ -5288,6 +5304,312 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-24 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-24 05:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-24 05:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-24 05:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-24 05:59:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-24 06:00:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-24 06:21:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 06:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 06:29:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-24 06:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 06:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-24 06:42:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-24 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-24 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-24 07:13:00 +0000"
     },
     "done": true
   },
