@@ -1809,9 +1809,11 @@
       "shrubland": "2025-02-24 01:50:52 +0000",
       "rocky_shrubland": "2025-02-24 01:49:29 +0000",
       "scrubland": "2025-02-24 00:47:13 +0000",
+      "erupting_inferno": "2025-02-24 18:38:15 +0000",
       "highland": "2025-02-24 01:02:45 +0000",
       "jacaranda_glade": "2025-02-24 01:12:43 +0000",
       "old_growth_woodland": "2025-02-24 00:12:57 +0000",
+      "withered_abyss": "2025-02-24 18:59:51 +0000",
       "orchard": "2025-02-24 01:14:24 +0000",
       "overgrown_greens": "2025-02-24 01:51:36 +0000",
       "mediterranean_forest": "2025-02-24 02:14:35 +0000",
@@ -2176,12 +2178,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-24 18:42:51 +0000",
+      "minecraft:pillager": "2025-02-24 18:29:52 +0000",
       "minecraft:skeleton": "2025-02-24 00:21:45 +0000",
       "minecraft:hoglin": "2025-02-24 01:25:41 +0000",
+      "minecraft:vindicator": "2025-02-24 18:31:31 +0000",
+      "minecraft:magma_cube": "2025-02-24 19:15:59 +0000",
       "minecraft:spider": "2025-02-24 00:28:18 +0000",
       "minecraft:creeper": "2025-02-24 00:15:31 +0000",
       "minecraft:wither_skeleton": "2025-02-24 00:35:09 +0000",
       "minecraft:cave_spider": "2025-02-24 01:55:09 +0000",
+      "minecraft:piglin": "2025-02-24 18:41:26 +0000",
       "minecraft:stray": "2025-02-24 00:23:56 +0000",
       "minecraft:zombie": "2025-02-24 00:16:25 +0000"
     },
@@ -4971,6 +4978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-24 18:13:56 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-02-24 18:21:42 +0000"
@@ -4980,12 +4993,6 @@
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-02-24 18:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-02-24 18:13:56 +0000"
     },
     "done": true
   },
@@ -5004,6 +5011,367 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-02-24 18:21:42 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-02-24 18:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-24 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-24 18:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-24 18:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-24 18:38:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-02-24 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-24 18:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 18:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 18:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-24 18:58:01 +0000",
+      "minecraft:basalt_deltas": "2025-02-24 18:43:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-24 18:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 18:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 18:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-24 18:49:08 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-02-24 18:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-24 18:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-24 18:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-24 18:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-24 18:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-24 18:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-24 18:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-24 19:04:26 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-24 19:08:35 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2025-02-24 19:08:35 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-02-24 19:08:35 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-02-24 19:08:35 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-02-24 19:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-24 19:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-24 19:19:34 +0000"
+    },
+    "done": true
+  },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-02-24 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-02-24 19:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-24 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_top": "2025-02-24 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-24 20:15:38 +0000"
     },
     "done": true
   },
