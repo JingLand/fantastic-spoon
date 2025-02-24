@@ -1,5 +1,32 @@
 [
   {
+    "uuid": "4ea4788f-9efb-3536-a943-099eea04c56d",
+    "displayName": {
+      "insertion": "Eltintinn",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Eltintinn "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "4ea4788f-9efb-3536-a943-099eea04c56d",
+          "name": {
+            "text": "Eltintinn"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Eltintinn"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
     "uuid": "aae909ca-8c1a-3db0-819a-ff5f1fb6b09e",
     "displayName": {
       "insertion": "TomanoMC",
@@ -20,6 +47,60 @@
       "extra": [
         {
           "text": "TomanoMC"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "c80b607a-374c-3e73-8977-e1fba99eaef9",
+    "displayName": {
+      "insertion": "pipeeessj",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell pipeeessj "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "c80b607a-374c-3e73-8977-e1fba99eaef9",
+          "name": {
+            "text": "pipeeessj"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "pipeeessj"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "f4e6d21f-ff30-3381-a0ac-8dda38e4907c",
+    "displayName": {
+      "insertion": "Timothy255",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Timothy255 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "f4e6d21f-ff30-3381-a0ac-8dda38e4907c",
+          "name": {
+            "text": "Timothy255"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Timothy255"
         }
       ],
       "text": ""
