@@ -4646,129 +4646,15 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_hedge": {
+    "criteria": {
+      "has_leaves": "2025-02-24 01:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
       "has_vine": "2025-02-24 01:58:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_wishing_well": {
-    "criteria": {
-      "location0": "2025-02-24 02:33:13 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_large": {
-    "criteria": {
-      "has_medium_backpack": "2025-02-24 02:08:49 +0000"
-    },
-    "done": true
-  },
-  "mca:friend": {
-    "criteria": {
-      "baby": "2025-02-24 03:14:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-02-24 03:06:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_cabinet": {
-    "criteria": {
-      "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-02-24 02:28:57 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/magenta_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-02-24 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/lime_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/gray_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_table": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:09:44 +0000"
     },
     "done": true
   },
@@ -4778,21 +4664,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
     "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
+      "has_vine": "2025-02-24 01:58:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
     "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-02-24 02:09:44 +0000"
+      "has_vine": "2025-02-24 01:58:35 +0000"
     },
     "done": true
   },
@@ -4802,33 +4682,45 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/orange_jungle_crib": {
+  "usefulbackpacks:recipes/backpack_large": {
     "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+      "has_medium_backpack": "2025-02-24 02:08:49 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
+      "has_log": "2025-02-24 02:09:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
     "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
+      "has_log": "2025-02-24 02:09:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_sign": {
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
+      "has_log": "2025-02-24 02:09:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
-      "has_iron_block": "2025-02-24 03:01:22 +0000"
+      "has_log": "2025-02-24 02:09:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:09:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-24 02:09:44 +0000"
     },
     "done": true
   },
@@ -4838,27 +4730,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_crate": {
     "criteria": {
       "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
     },
     "done": true
   },
@@ -4868,27 +4742,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_blue_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_chair": {
     "criteria": {
       "has_planks": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/green_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
     },
     "done": true
   },
@@ -4898,39 +4754,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/cyan_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2025-02-24 01:58:35 +0000"
     },
     "done": true
   },
@@ -4952,57 +4778,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/light_gray_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_blinds": {
     "criteria": {
       "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/blue_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/black_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-02-24 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-02-24 02:10:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
     },
     "done": true
   },
@@ -5012,45 +4790,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-02-24 02:09:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2025-02-24 01:58:35 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_park_bench": {
     "criteria": {
       "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-24 03:20:29 +0000"
     },
     "done": true
   },
@@ -5072,9 +4820,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_creeper_head": "2025-02-24 02:19:13 +0000"
+      "has_logs": "2025-02-24 02:09:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-02-24 02:09:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-02-24 02:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-24 02:10:34 +0000"
     },
     "done": true
   },
@@ -5090,9 +4856,321 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-24 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-02-24 02:19:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-02-24 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-24 02:32:41 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-24 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-24 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-24 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-24 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-24 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-24 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-24 03:06:04 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-02-24 03:14:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 03:20:29 +0000"
     },
     "done": true
   },
@@ -5108,12 +5186,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/red_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-24 03:20:29 +0000"
@@ -5126,27 +5198,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-24 02:32:41 +0000"
-    },
-    "done": false
-  },
   "mca:recipes/decorations/brown_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-02-24 03:01:22 +0000"
     },
     "done": true
   },
@@ -5156,63 +5210,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_hedge": {
-    "criteria": {
-      "has_leaves": "2025-02-24 01:58:28 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_crate": {
-    "criteria": {
-      "has_planks": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-02-24 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_desk": {
-    "criteria": {
-      "has_log": "2025-02-24 02:09:44 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-24 02:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-02-24 03:01:22 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-24 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-24 02:19:03 +0000"
     },
     "done": true
   },
