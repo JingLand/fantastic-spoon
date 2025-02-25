@@ -135,6 +135,33 @@
     "animation": "null"
   },
   {
+    "uuid": "e09bc419-daa7-3bce-831f-5ec62030ef09",
+    "displayName": {
+      "insertion": "sinergias",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell sinergias "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "e09bc419-daa7-3bce-831f-5ec62030ef09",
+          "name": {
+            "text": "sinergias"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "sinergias"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
     "uuid": "a143b7f1-e154-3751-9325-6f89ab059d43",
     "displayName": {
       "insertion": "Neo_profeci",
@@ -155,6 +182,33 @@
       "extra": [
         {
           "text": "Neo_profeci"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "c1bda1ca-31db-39dd-b531-39ac3b4cde5e",
+    "displayName": {
+      "insertion": "Mateo2026",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Mateo2026 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "c1bda1ca-31db-39dd-b531-39ac3b4cde5e",
+          "name": {
+            "text": "Mateo2026"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Mateo2026"
         }
       ],
       "text": ""
