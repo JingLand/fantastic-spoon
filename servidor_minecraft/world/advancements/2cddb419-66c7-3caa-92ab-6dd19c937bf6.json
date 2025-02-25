@@ -453,6 +453,7 @@
       "marsh": "2025-02-25 02:00:28 +0000",
       "old_growth_woodland": "2025-02-25 01:19:41 +0000",
       "crystalline_chasm": "2025-02-25 03:29:35 +0000",
+      "orchard": "2025-02-25 05:54:56 +0000",
       "overgrown_greens": "2025-02-25 01:59:38 +0000",
       "spider_nest": "2025-02-25 02:09:13 +0000",
       "redwood_forest": "2025-02-25 01:33:42 +0000",
@@ -2904,7 +2905,8 @@
       "minecraft:skeleton": "2025-02-25 02:07:18 +0000",
       "minecraft:witch": "2025-02-25 05:47:42 +0000",
       "minecraft:wither_skeleton": "2025-02-25 02:36:18 +0000",
-      "minecraft:zombie": "2025-02-25 02:46:53 +0000"
+      "minecraft:zombie": "2025-02-25 02:46:53 +0000",
+      "minecraft:zombie_villager": "2025-02-25 05:59:28 +0000"
     },
     "done": false
   },
@@ -3778,9 +3780,39 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-25 05:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-02-25 05:47:42 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-25 05:53:10 +0000"
     },
     "done": true
   },
@@ -3808,6 +3840,24 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-25 05:53:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-02-25 05:47:42 +0000"
@@ -3819,6 +3869,12 @@
       "minecraft:chicken": "2025-02-25 05:40:19 +0000"
     },
     "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
@@ -3841,6 +3897,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-02-25 05:47:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-02-25 05:58:40 +0000"
     },
     "done": true
   },
@@ -3880,6 +3942,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-25 05:55:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-02-25 05:47:42 +0000"
@@ -3895,6 +3969,12 @@
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-02-25 05:47:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-02-25 05:54:46 +0000"
     },
     "done": true
   },
@@ -3922,6 +4002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-25 05:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-25 05:47:42 +0000"
@@ -3937,6 +4023,12 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-02-25 05:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-25 05:53:10 +0000"
     },
     "done": true
   },
