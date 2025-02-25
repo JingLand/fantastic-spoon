@@ -988,3 +988,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Feb2025 06:48:18.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Into Fire]
 [25Feb2025 06:48:27.765] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [25Feb2025 06:50:16.313] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[25Feb2025 06:56:10.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Who is Cutting Onions?]
+[25Feb2025 06:57:18.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Take Aim]
+[25Feb2025 06:58:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [War Pigs]
