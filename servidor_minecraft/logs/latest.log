@@ -952,3 +952,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Feb2025 06:01:21.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
 [25Feb2025 06:01:36.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeozZ_BlodD lost connection: Disconnected
 [25Feb2025 06:01:36.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD left the game
+[25Feb2025 06:06:04.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeozZ_BlodD[/127.67.160.249:44407] logged in with entity id 17822 at (-2129.9843689611102, 64.0, -809.8162522782516)
+[25Feb2025 06:06:04.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD joined the game
+[25Feb2025 06:06:04.611] [Server thread/INFO] [Jade/]: Syncing config to NeozZ_BlodD (2cddb419-66c7-3caa-92ab-6dd19c937bf6)
+[25Feb2025 06:06:15.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeozZ_BlodD lost connection: Disconnected
+[25Feb2025 06:06:15.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD left the game
+[25Feb2025 06:06:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD was slain by Nightmare Stalker
+[25Feb2025 06:09:37.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Yasushi'/19167, l='ServerLevel[world]', x=-2173.77, y=78.18, z=-895.52] died: Yasushi burned to death
