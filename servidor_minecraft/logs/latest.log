@@ -959,3 +959,16 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Feb2025 06:06:15.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD left the game
 [25Feb2025 06:06:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD was slain by Nightmare Stalker
 [25Feb2025 06:09:37.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Yasushi'/19167, l='ServerLevel[world]', x=-2173.77, y=78.18, z=-895.52] died: Yasushi burned to death
+[25Feb2025 06:15:32.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeozZ_BlodD[/127.67.160.249:55877] logged in with entity id 20787 at (-2130.1456363430293, 64.0, -809.9486664760725)
+[25Feb2025 06:15:32.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD joined the game
+[25Feb2025 06:15:32.945] [Server thread/INFO] [Jade/]: Syncing config to NeozZ_BlodD (2cddb419-66c7-3caa-92ab-6dd19c937bf6)
+[25Feb2025 06:16:09.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeozZ_BlodD lost connection: Disconnected
+[25Feb2025 06:16:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD left the game
+[25Feb2025 06:16:20.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeozZ_BlodD[/127.67.160.249:33173] logged in with entity id 20892 at (-2130.438022265053, 64.5625, -811.93294053381)
+[25Feb2025 06:16:20.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD joined the game
+[25Feb2025 06:16:20.350] [Server thread/INFO] [Jade/]: Syncing config to NeozZ_BlodD (2cddb419-66c7-3caa-92ab-6dd19c937bf6)
+[25Feb2025 06:20:27.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> zzzzzzzz
+[25Feb2025 06:20:27.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> z
+[25Feb2025 06:20:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> z
+[25Feb2025 06:20:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> z
+[25Feb2025 06:22:08.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Double Trouble]
