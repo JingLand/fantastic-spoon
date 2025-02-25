@@ -83,6 +83,7 @@
       "shrubland": "2025-02-24 05:38:50 +0000",
       "rocky_shrubland": "2025-02-25 03:55:05 +0000",
       "scrubland": "2025-02-20 21:06:59 +0000",
+      "erupting_inferno": "2025-02-25 06:35:04 +0000",
       "floodplain": "2025-02-24 04:23:17 +0000",
       "highland": "2025-02-24 06:10:03 +0000",
       "jacaranda_glade": "2025-02-24 06:09:40 +0000",
@@ -90,6 +91,7 @@
       "mystic_grove": "2025-02-24 06:32:02 +0000",
       "old_growth_woodland": "2025-02-24 04:22:50 +0000",
       "crystalline_chasm": "2025-02-25 03:29:31 +0000",
+      "withered_abyss": "2025-02-25 06:38:03 +0000",
       "orchard": "2025-02-24 06:27:44 +0000",
       "overgrown_greens": "2025-02-25 01:59:01 +0000",
       "mediterranean_forest": "2025-02-24 01:08:51 +0000",
@@ -6787,7 +6789,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-25 03:36:11 +0000"
+      "minecraft:nether_wastes": "2025-02-25 03:36:11 +0000",
+      "minecraft:soul_sand_valley": "2025-02-25 06:39:08 +0000"
     },
     "done": false
   },
@@ -7193,9 +7196,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-02-25 05:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:50 +0000"
     },
     "done": true
   },
@@ -7205,15 +7232,51 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-25 06:38:27 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-02-25 06:22:08 +0000"
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-25 06:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-02-25 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
     },
     "done": true
   },
@@ -7229,15 +7292,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-25 06:31:53 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_boots": {
     "criteria": {
       "has_item": "2025-02-25 05:53:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-25 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-25 06:31:47 +0000"
     },
     "done": true
   },

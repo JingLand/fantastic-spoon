@@ -109,6 +109,7 @@
       "shrubland": "2025-02-24 05:38:55 +0000",
       "rocky_shrubland": "2025-02-24 05:40:24 +0000",
       "scrubland": "2025-02-21 05:53:04 +0000",
+      "erupting_inferno": "2025-02-25 06:35:03 +0000",
       "floodplain": "2025-02-24 04:21:23 +0000",
       "highland": "2025-02-24 06:09:20 +0000",
       "jacaranda_glade": "2025-02-24 06:09:00 +0000",
@@ -116,6 +117,7 @@
       "mystic_grove": "2025-02-24 06:31:57 +0000",
       "old_growth_woodland": "2025-02-21 05:45:52 +0000",
       "crystalline_chasm": "2025-02-25 03:29:33 +0000",
+      "withered_abyss": "2025-02-25 06:38:21 +0000",
       "orchard": "2025-02-24 06:09:03 +0000",
       "overgrown_greens": "2025-02-25 01:59:03 +0000",
       "mediterranean_forest": "2025-02-24 01:08:47 +0000",
@@ -6012,7 +6014,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-25 03:30:32 +0000"
+      "minecraft:nether_wastes": "2025-02-25 03:30:32 +0000",
+      "minecraft:soul_sand_valley": "2025-02-25 06:39:27 +0000"
     },
     "done": false
   },
@@ -6247,6 +6250,42 @@
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-02-25 05:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-25 06:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-25 06:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-25 06:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-25 06:31:52 +0000"
     },
     "done": true
   },
