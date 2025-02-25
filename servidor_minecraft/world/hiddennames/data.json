@@ -81,6 +81,33 @@
     "animation": "null"
   },
   {
+    "uuid": "2cddb419-66c7-3caa-92ab-6dd19c937bf6",
+    "displayName": {
+      "insertion": "NeozZ_BlodD",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell NeozZ_BlodD "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "2cddb419-66c7-3caa-92ab-6dd19c937bf6",
+          "name": {
+            "text": "NeozZ_BlodD"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "NeozZ_BlodD"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
     "uuid": "f4e6d21f-ff30-3381-a0ac-8dda38e4907c",
     "displayName": {
       "insertion": "Timothy255",
