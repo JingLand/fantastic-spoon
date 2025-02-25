@@ -972,3 +972,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Feb2025 06:20:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> z
 [25Feb2025 06:20:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Neo_profeci> z
 [25Feb2025 06:22:08.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Double Trouble]
+[25Feb2025 06:23:36.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeozZ_BlodD lost connection: Disconnected
+[25Feb2025 06:23:36.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeozZ_BlodD left the game
+[25Feb2025 06:31:47.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [Those Were the Days]
+[25Feb2025 06:31:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TomanoMC has made the advancement [Those Were the Days]
+[25Feb2025 06:32:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neo_profeci has made the advancement [War Pigs]
